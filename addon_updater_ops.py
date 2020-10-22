@@ -1326,10 +1326,10 @@ def register(bl_info):
 	updater.private_token = None # "tokenstring"
 
 	# choose your own username, must match website (not needed for GitLab)
-	updater.user = "cgcookie"
+	updater.user = "studiomonkriss"
 
 	# choose your own repository, must match git name
-	updater.repo = "blender-addon-updater"
+	updater.repo = "iMeshh-Asset-Manager"
 
 	#updater.addon = # define at top of module, MUST be done first
 
